@@ -1,0 +1,6 @@
+store_id,region,store_type
+S001,Northeast,Urban
+S002,Midwest,Suburban
+S003,South,Urban
+S004,West,Suburban
+S005,Northeast,Rural

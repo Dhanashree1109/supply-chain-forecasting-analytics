@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+P001,Shampoo,Personal Care,8.99
+P002,Rice Bag,Grocery,14.99
+P003,Toothpaste,Personal Care,3.49
+P004,Cooking Oil,Grocery,11.99
+P005,Laundry Detergent,Household,12.49
+P006,Cereal,Grocery,5.99
+P007,Body Lotion,Personal Care,7.99
+P008,Dish Soap,Household,4.49
+P009,Protein Bar,Health,2.99
+P010,Hand Sanitizer,Health,3.99
